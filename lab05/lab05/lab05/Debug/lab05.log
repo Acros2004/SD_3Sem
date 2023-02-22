@@ -1,0 +1,26 @@
+﻿Сборка начата 14.10.2022 8:32:52.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\noname\Desktop\123\SD2\lab05\lab05\lab05\lab05.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\lab05.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt lab05.cpp
+         lab05.cpp
+     1>C:\Users\noname\Desktop\123\SD2\lab05\lab05\lab05\lab05.cpp(114,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\noname\Desktop\123\SD2\lab05\lab05\Debug\lab05.exe" /INCREMENTAL /ILK:"Debug\lab05.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\noname\Desktop\123\SD2\lab05\lab05\Debug\lab05.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\noname\Desktop\123\SD2\lab05\lab05\Debug\lab05.lib" /MACHINE:X86 Debug\lab05.obj
+         lab05.vcxproj -> C:\Users\noname\Desktop\123\SD2\lab05\lab05\Debug\lab05.exe
+       FinalizeBuildStatus:
+         Файл "Debug\lab05.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab05.tlog\lab05.lastbuildstate".
+     1>Сборка проекта "C:\Users\noname\Desktop\123\SD2\lab05\lab05\lab05\lab05.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\noname\Desktop\123\SD2\lab05\lab05\lab05\lab05.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\noname\Desktop\123\SD2\lab05\lab05\lab05\lab05.cpp(114,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:01.01

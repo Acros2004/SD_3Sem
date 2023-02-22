@@ -1,0 +1,15 @@
+C:\Users\noname\Desktop\123\SD2\lab08\lab08\lab08\bin\Debug\net6.0\lab08.exe
+C:\Users\noname\Desktop\123\SD2\lab08\lab08\lab08\bin\Debug\net6.0\lab08.deps.json
+C:\Users\noname\Desktop\123\SD2\lab08\lab08\lab08\bin\Debug\net6.0\lab08.runtimeconfig.json
+C:\Users\noname\Desktop\123\SD2\lab08\lab08\lab08\bin\Debug\net6.0\lab08.dll
+C:\Users\noname\Desktop\123\SD2\lab08\lab08\lab08\bin\Debug\net6.0\lab08.pdb
+C:\Users\noname\Desktop\123\SD2\lab08\lab08\lab08\obj\Debug\net6.0\lab08.csproj.AssemblyReference.cache
+C:\Users\noname\Desktop\123\SD2\lab08\lab08\lab08\obj\Debug\net6.0\lab08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noname\Desktop\123\SD2\lab08\lab08\lab08\obj\Debug\net6.0\lab08.AssemblyInfoInputs.cache
+C:\Users\noname\Desktop\123\SD2\lab08\lab08\lab08\obj\Debug\net6.0\lab08.AssemblyInfo.cs
+C:\Users\noname\Desktop\123\SD2\lab08\lab08\lab08\obj\Debug\net6.0\lab08.csproj.CoreCompileInputs.cache
+C:\Users\noname\Desktop\123\SD2\lab08\lab08\lab08\obj\Debug\net6.0\lab08.dll
+C:\Users\noname\Desktop\123\SD2\lab08\lab08\lab08\obj\Debug\net6.0\refint\lab08.dll
+C:\Users\noname\Desktop\123\SD2\lab08\lab08\lab08\obj\Debug\net6.0\lab08.pdb
+C:\Users\noname\Desktop\123\SD2\lab08\lab08\lab08\obj\Debug\net6.0\lab08.genruntimeconfig.cache
+C:\Users\noname\Desktop\123\SD2\lab08\lab08\lab08\obj\Debug\net6.0\ref\lab08.dll
